@@ -1,0 +1,10 @@
+{
+  "name": "react-ie",
+  "version": "1.0.0",
+  "description": "Super-simple IE polyfills for React",
+  "main": "index.ts",
+  "repository": "https://github.com/cheolheon/react-ie",
+  "author": "Cheolheon Choi <cheolheon.choi@gmail.com>",
+  "license": "MIT"
+}
+s
